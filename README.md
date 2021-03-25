@@ -1,8 +1,4 @@
-# HouseMuch?
-
-
-![image](https://user-images.githubusercontent.com/76253952/112454664-46f7ed80-8d9c-11eb-83eb-458b4a4385d0.png)
-
+# HouseMuch
 
 ![image](https://user-images.githubusercontent.com/76253952/112454851-73ac0500-8d9c-11eb-9b7d-73376a8f89a9.png)
 
